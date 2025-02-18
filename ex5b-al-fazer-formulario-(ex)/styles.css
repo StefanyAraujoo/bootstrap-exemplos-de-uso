@@ -1,0 +1,43 @@
+.custom-form {
+    background: linear-gradient(145deg, #f4e1f4, #e3d0e7);
+    padding: 2rem;
+    border-radius: 15px;
+    margin: 50px;
+    width: 40%;
+    margin-bottom: 50px;
+
+
+}
+
+.form-label {
+    color: #000000;
+}
+
+.custom-icon {
+    background-color: #1ed6d0;
+    border: #000000;
+}
+
+.btn.btn-primary.custom-button {
+    background: linear-gradient(145deg, #40c9b5, #1ed6d0);
+    padding: 0.8rem 2rem;
+    border-radius: 15px;
+    border: none;
+    color: #000000;
+}
+
+h1 {
+    font-size: 40px;
+    color: #69c9c6;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
